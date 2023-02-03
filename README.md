@@ -1,10 +1,13 @@
 # ee_swarm
 Embodied evolutionary (EE) algorithm for open-ended continuous adaptation of swarm robotics.
 
-The key files needed are <strong>HungryRobot_probabilistic2.py</strong> (found in situsim extensions folder) and <strong>MyForager.py</strong> (found in lab 5 folder)
+This uses the 'SituSim' (SITuated and embodied robotics SIMulator) written in Python (Dept. Eng. & Inf., University of Sussex).
+
+The key files written by myself are <strong>HungryRobot_probabilistic2.py</strong> (found in situsim extensions folder) and <strong>MyForager.py</strong> (found in lab 5 folder).
 
 All plots are also contained in the folder lab 5.
 
+Abstract
 In the natural world, the evolutionary process provides organisms with adaptive capabilities in a
 completely decentralised and distributed manner; one in which the evaluation of genes is an implicit
 and embodied process directly affected by agents’ behaviour. This is in contrast to the majority of
