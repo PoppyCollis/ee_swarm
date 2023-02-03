@@ -7,6 +7,9 @@ The key files written by myself are <strong>HungryRobot_probabilistic2.py</stron
 
 All plots are also contained in the folder <strong>lab 5</strong>.
 
+![image](https://user-images.githubusercontent.com/44060045/216660876-afe3d997-b35c-44ec-8172-745f89f697a5.png)
+
+
 <em>In the natural world, the evolutionary process provides organisms with adaptive capabilities in a
 completely decentralised and distributed manner; one in which the evaluation of genes is an implicit
 and embodied process directly affected by agents’ behaviour. This is in contrast to the majority of
